@@ -1,4 +1,4 @@
-## 🌎 Samantha Frucht
+# 🌎 Samantha Frucht
 
 ![Pronouns](https://img.shields.io/badge/Pronouns-she%2Fher-red?style=flat-square)
 
