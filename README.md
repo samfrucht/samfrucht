@@ -33,9 +33,10 @@ My research focuses on compound climate hazards, particularly tropical cyclones 
 ## 📬 How to Reach Me
 Email: [sfrucht@uci.edu](mailto:sfrucht@uci.edu)
 
+<!--
 ### 🌲 Outside of Research
 I enjoy running, hiking, camping, and knitting/crocheting in my free time.
-
+-->
 
 <!--
 **samfrucht/samfrucht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
