@@ -11,7 +11,7 @@
 ## 👩‍🔬 About Me
 I am a Ph.D. candidate in Earth System Science at the University of California, Irvine, advised by [Jane Baldwin](https://www.janebaldw.in/). 
 
-My research focuses on compound climate hazards, particularly tropical cyclones followed by extreme heat, and their interactions with human systems.
+My research focuses on compound climate hazards, particularly tropical cyclones followed by extreme heat + human impacts
 
 ## 📚 Research Interests
 
