@@ -9,7 +9,7 @@
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-grey?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=wZxHqg8AAAAJ&hl=en)
 
 ## 👩‍🔬 About Me
-I am a Ph.D. candidate in Earth System Science at the University of California, Irvine, advised by [Jane Baldwin](https://www.janebaldw.in/). My research focuses on compound climate hazards, particularly tropical cyclones followed by extreme heat + human impacts
+I am a Ph.D. candidate in Earth System Science at the University of California, Irvine, advised by [Jane Baldwin](https://www.janebaldw.in/). My research focuses on compound climate hazards, particularly tropical cyclones followed by extreme heat + human impacts.
 
 ## 📚 Research Interests
 
