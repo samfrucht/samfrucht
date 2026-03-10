@@ -5,8 +5,8 @@
 [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--2468--3956-grey?style=flat-square&logo=orcid)](https://orcid.org/0000-0002-2468-3956)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-grey?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=wZxHqg8AAAAJ&hl=en)
 
-## 👩‍🔬 About Me
 I am a Ph.D. candidate in Earth System Science at the University of California, Irvine, advised by [Jane Baldwin](https://www.janebaldw.in/). My dissertation research focuses on compound climate hazards, particularly tropical cyclones followed by extreme heat + human impacts.
+
 <!--
 ## 📚 Research Interests
 
