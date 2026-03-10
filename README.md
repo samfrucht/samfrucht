@@ -1,7 +1,4 @@
-# 🌎 Samantha Frucht
-
-![Pronouns](https://img.shields.io/badge/Pronouns-she%2Fher-red?style=flat-square)
-
+# Samantha Frucht (she/her)
 
 [![Bluesky](https://img.shields.io/badge/Bluesky-grey?style=flat-square&logo=bluesky)](https://bsky.app/profile/samfrucht.bsky.social)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/samanthafrucht)
@@ -9,8 +6,8 @@
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-grey?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=wZxHqg8AAAAJ&hl=en)
 
 ## 👩‍🔬 About Me
-I am a Ph.D. candidate in Earth System Science at the University of California, Irvine, advised by [Jane Baldwin](https://www.janebaldw.in/). My research focuses on compound climate hazards, particularly tropical cyclones followed by extreme heat + human impacts.
-
+I am a Ph.D. candidate in Earth System Science at the University of California, Irvine, advised by [Jane Baldwin](https://www.janebaldw.in/). My dissertation research focuses on compound climate hazards, particularly tropical cyclones followed by extreme heat + human impacts.
+<!--
 ## 📚 Research Interests
 
 ![Climate Change](https://img.shields.io/badge/Climate%20Change-4f6d7a?style=flat-square)
@@ -18,6 +15,7 @@ I am a Ph.D. candidate in Earth System Science at the University of California, 
 ![Extreme Events](https://img.shields.io/badge/Extreme%20Events-7a8c99?style=flat-square)
 ![Climate Impacts](https://img.shields.io/badge/Climate%20Impacts-5f7f5f?style=flat-square)
 ![Human Health](https://img.shields.io/badge/Human%20Health-8a7f6f?style=flat-square)
+-->
 
 <!--
 ## 🛠️  Skills
@@ -28,8 +26,9 @@ I am a Ph.D. candidate in Earth System Science at the University of California, 
 ![LaTeX](https://img.shields.io/badge/LaTeX-5f7f5f?style=flat-square&logo=latex&logoColor=white)
 -->
 
-## 📬 How to Reach Me
+<!--
 Email: [sfrucht@uci.edu](mailto:sfrucht@uci.edu)
+-->
 
 <!--
 ### 🌲 Outside of Research
